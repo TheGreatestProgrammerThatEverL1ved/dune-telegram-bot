@@ -2082,3 +2082,5 @@ pyvenv.cfg
 bot_copy.py
 bot2.py
 bot.py
+bot_log.txt
+Bot_forgame/game_state.json
